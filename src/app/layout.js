@@ -8,7 +8,7 @@ const poppins = Poppins({
 
 export const metadata = {
   title: "Nebulus",
-  description: "YAY",
+  description: "YAY in progress",
 };
 
 export default function RootLayout({ children }) {
